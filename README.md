@@ -1,8 +1,8 @@
 # Graasp Feedback
 
-This repository captures [feature requests](./.github/ISSUE_TEMPLATE/feature_request.md), [bug reports](./.github/ISSUE_TEMPLATE/user_bug_report.md), and user feedback from across the Graasp ecosystem.
+This repository captures [💡 feature requests](./.github/ISSUE_TEMPLATE/feature_request.md), [🐛 bug reports](./.github/ISSUE_TEMPLATE/user_bug_report.md), and user feedback from across the Graasp ecosystem.
 
-## I am a Graasp user.
+## For Graasp users
 
 ### I encountered a problem. How should I report this problem?
 
@@ -14,7 +14,11 @@ If you need a new feature, or have a great idea, please, [fill a feature request
 
 ---
 
-## I am a Graasp developer.
+## For Graasp developers 
+
+### 📚 Documentation
+
+Documentation for Graasp is available on [graasp.github.io/docs/](https://graasp.github.io/docs/).
 
 ### Management of the issues
 
