@@ -8,13 +8,17 @@ This repository captures [💡 feature requests](./.github/ISSUE_TEMPLATE/featur
 
 If you encountered a problem in Graasp, it would be very helpful to us if you could [fill an issue](https://github.com/graasp/graasp-feedback/issues/new?assignees=&labels=🐛%20bug&template=user_bug_report.md&title=).
 
+<div style="text-align: center"><a href="https://github.com/graasp/graasp-feedback/issues/new?assignees=&labels=🐛%20bug&template=user_bug_report.md&title="><img width="300px" src="assets/report_issue.png" alt="Request a feature"/></a></div>
+
 ### I have a need or an idea. How can I ask for a new feature?
 
 If you need a new feature, or have a great idea, please, [fill a feature request](https://github.com/graasp/graasp-feedback/issues/new?assignees=&labels=💡%20feature&template=feature_request.md&title=).
 
+<div style="text-align: center"><a href="https://github.com/graasp/graasp-feedback/issues/new?assignees=&labels=💡%20feature&template=feature_request.md&title="><img width="300px" src="assets/request_feature.png" alt="Request a feature"/></a></div>
+
 ---
 
-## For Graasp developers 
+## For Graasp developers
 
 ### 📚 Documentation
 
